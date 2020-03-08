@@ -1,6 +1,10 @@
-# calculdoraimc
+# Calculdora de IMC
 
 Calculadora de IMC feita com Flutter
+
+## About
+
+My first flutter app developed. A simple calculator, but I tried to use a customization that flutter provides and the ease of handling the components
 
 ## Getting Started
 
